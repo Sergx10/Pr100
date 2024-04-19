@@ -56,6 +56,10 @@ footer {
     background-color:#EDF4F7; 
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+a.phone-style{
+	color: #green;
+	text-decoration: none;
+}
 .nav-list {
    display: flex;
    font-family:sans-serif;
