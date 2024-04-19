@@ -30,6 +30,10 @@ h4 {
 main ul {
     text-align: start;
     }
+figure img {
+ width: 100%; /* Ширина в процентах */
+ height: 100%;
+}	
 header {
     display: flex;
     flex-direction: column;
@@ -55,7 +59,7 @@ footer {
 .nav-list {
    display: flex;
    font-family:sans-serif;
-   font-size:x-small;
+   font-size:small;
 }
 
 .nav-link {
