@@ -24,6 +24,9 @@ main {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	line-height: 130%;
 }
+h3 {
+	/* padding: 3px;    */
+}
 h4 {
 	color: #3158A2;
 }
@@ -43,7 +46,7 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 	color: #3158A2 ;
     background-color: lightblue;
-    /* padding: 15px; */
+    
     width: 100%;
 }
 footer {
@@ -51,8 +54,8 @@ footer {
 	flex-direction:column;
     justify-content: center;
     align-items: center;
-    padding: 1rem;
-    /* color: #3158A2;*/
+    /* padding: 3px;   */
+    /* color: #3158A2; */
     background-color:#EDF4F7; 
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
